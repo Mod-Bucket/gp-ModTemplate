@@ -1,0 +1,1 @@
+As of 2/12/2020, entity scripts *must

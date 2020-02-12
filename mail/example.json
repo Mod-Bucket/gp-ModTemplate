@@ -1,0 +1,13 @@
+{
+    "id": "Id",
+    "relativeToId": "Relative To Id",
+    "day": 0,
+    "dontSendIf": "Dont Send If",
+    "from": "From",
+    "subject": "Subject",
+    "letter": "Letter",
+    "signature": "Signature",
+    "items": "Items",
+    "seasonSpecific": "Season Specific",
+    "repeatable": "Repeatable"
+}

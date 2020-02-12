@@ -1,0 +1,1 @@
+*Model* files need to be in either `.obj` or `.fbx` format.

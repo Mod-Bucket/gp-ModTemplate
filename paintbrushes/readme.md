@@ -1,0 +1,1 @@
+*Paintbrush* files need to be in either `.jpg` or `.png` format.

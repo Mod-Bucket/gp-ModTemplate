@@ -1,0 +1,1 @@
+https://www.gardenpawsgame.com/modding/JsonReferences/

@@ -1,0 +1,38 @@
+{
+    "itemtype": "misc",
+    "id": "ItemID",
+    "name": "Item Name",
+    "desc": "Item Description",
+    "icon": "IconFile",
+    "buy": 1000,
+    "sell": 500,
+    "stacksTo": 90,
+    "clothTemplate": "ClothingPrefabName",
+    "vTemplate": "VisualPrefabName",
+    "pickTemplate": "PickupPrefabName",
+    "visualBind": "none",
+    "requires": "EventIDRequired",
+    "usableType": "CodeToRunWhenSelected",
+    "usableVars": "{'param' = 'SerializedJsonSringWithParameters'}",
+    "hasGlitter": false,
+    "alwaysLoad": false,
+    "shoppable": false,
+    "chestAvailable": false,
+    "autoFurniture": {
+        "model": "modelName",
+        "category": "Furniture",
+        "modelLocalPos": "{0.0, 0.0, 0.0}",
+        "modelLocalRot": "{0.0, 0.0, 0.0}",
+        "modelLocalScale": "{1.0, 1.0, 1.0}",
+        "texture": "modelTexture"
+    },
+    "autoClothing": {
+        "model": "modelName",
+        "modelLocalPos": "{0.0, 0.0, 0.0}",
+        "modelLocalRot": "{0.0, 0.0, 0.0}",
+        "modelLocalScale": "{1.0, 1.0, 1.0}",
+        "texture": "modelTexture",
+        "followPosition": true,
+        "followRotation": true
+    }
+}

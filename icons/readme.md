@@ -1,0 +1,1 @@
+*Icon* files need to be in `.png` format
